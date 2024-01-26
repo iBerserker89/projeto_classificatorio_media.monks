@@ -2,7 +2,7 @@
 
 Este é um projeto de tratamento e análise de dados, para uma vaga de estágio em Web analytics na Media.Monks.
 
-Este projeto consiste no tratamento e formatação de dados contidos em arquivos.json, utilizando as linguagens Javascrip e SQL.
+Este projeto consiste no tratamento e formatação de dados contidos em arquivos .json, utilizando as linguagens Javascript e SQL.
 Também foram utilizados gráficos e tabelas na criação do relatório prospoto para o projeto.
 
 ## Abaixo se encontram os passos seguidos para a entrega do projeto e links para o relatório e instruções do uso de código, em pdf:
